@@ -25,4 +25,4 @@ RUN hexo generate
 
 # 配置deploy需要的组件
 RUN git config --global user.email "your name@example.com" && git config --global user.name "your name"
-# RUN hexo deploy
+RUN hexo deploy
