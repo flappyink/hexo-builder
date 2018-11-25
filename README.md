@@ -18,9 +18,9 @@ https://github.com/hexo-builder
 ### 阿里云镜像容器
 
 创建hexo-builder的镜像仓库
-![创建镜像仓库](http://github.com/h1ac0k/hexo-builder/raw/master/doc/1.png)
-![绑定GIT仓库](http://github.com/h1ac0k/hexo-builder/raw/master/doc/2.png)
-![设置触发规则](http://github.com/h1ac0k/hexo-builder/raw/master/doc/3.png)
+![创建镜像仓库](https://raw.githubusercontent.com/h1ac0k/hexo-builder/master/doc/1.png)
+![绑定GIT仓库](https://raw.githubusercontent.com/h1ac0k/hexo-builder/master/doc/2.png)
+![设置触发规则](https://raw.githubusercontent.com/h1ac0k/hexo-builder/master/doc/3.png)
 
 ## 设定Github Access Token
 
