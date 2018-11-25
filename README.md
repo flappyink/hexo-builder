@@ -1,4 +1,4 @@
-# blog
+# Hexo-Builder
 
 ### 总体的效果
 部署完成后，在hexo-build/source/_posts 新增对应的文件后，即会自动构建hexo博客，然后自动推送更新到github pages服务上。
