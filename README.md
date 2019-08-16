@@ -1,5 +1,8 @@
 # Hexo-Builder
 
+### 建议直接使用Github Actions
+Github Actions服务的免费用户支持2000分钟/月的使用额度，对于个人用户足够了
+
 ### 总体的效果
 部署完成后，在hexo-build/source/_posts 新增对应的文件后，即会自动构建hexo博客，然后自动推送更新到github pages服务上。
 
